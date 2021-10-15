@@ -1,4 +1,4 @@
 # Hellow World
 
 
-This is a trial repository to see how github works. 
+This is my first ever repository on github. Hello! 
